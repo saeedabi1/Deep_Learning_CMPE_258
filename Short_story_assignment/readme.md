@@ -1,3 +1,8 @@
+Short story assignment proposal is the following pdf file:
+
+Short story assignment proposal_Mirsaeid_Abolghasemi.pdf
+
+
 Short story assignment proposal submission:
 
 "A Survey of Generative Adversarial Neural Networks (GAN) for Text-to-Image Synthesis"
