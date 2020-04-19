@@ -1,6 +1,4 @@
-Short story assignment proposal is the following pdf file:
-
-Short story assignment proposal_Mirsaeid_Abolghasemi.pdf
+Short story assignment proposal is the following pdf file: Short story assignment proposal_Mirsaeid_Abolghasemi.pdf
 
 
 
