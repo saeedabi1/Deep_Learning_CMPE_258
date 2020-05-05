@@ -8,6 +8,6 @@ https://www.kaggle.com/c/planet-understanding-the-amazon-from-space/data
 
 
 
-The links:
+The link to see the output TensorBoard:
 
 View your TensorBoard live at: https://tensorboard.dev/experiment/9ZfVMlJ5Rney8E2soCvOPg/
