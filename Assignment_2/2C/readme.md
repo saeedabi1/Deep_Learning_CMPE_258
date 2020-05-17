@@ -1,0 +1,1 @@
+c) logistic regression
